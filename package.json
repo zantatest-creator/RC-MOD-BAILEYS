@@ -12,7 +12,7 @@
     "url": "git@github.com/rcedubot/X.git"
   },
   "license": "MIT",
-  "author": "ATOMIC",
+  "author": "Rashmika & Rocky",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
