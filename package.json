@@ -1,16 +1,12 @@
 {
-  "name": "x",
+  "name": "Baileys-X",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/rcedubot/X/",
-  "repository": {
-    "url": "git@github.com/rcedubot/X.git"
-  },
   "license": "MIT",
   "author": "Rashmika & Rocky",
   "main": "lib/index.js",
