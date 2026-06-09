@@ -1,5 +1,5 @@
 {
-  "name": "Baileys-X",
+  "name": "baileys_zero",
   "type": "module",
   "version": "1.0.6",
   "description": "A WebSockets library for interacting with WhatsApp Web",
