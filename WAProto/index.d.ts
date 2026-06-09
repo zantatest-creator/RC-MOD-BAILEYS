@@ -9,7 +9,7 @@ export namespace proto {
         accountType?: (proto.ADVEncryptionType|null);
         deviceType?: (proto.ADVEncryptionType|null);
     }
-
+ 
     class ADVDeviceIdentity implements IADVDeviceIdentity {
         constructor(p?: proto.IADVDeviceIdentity);
         public rawId?: (number|null);

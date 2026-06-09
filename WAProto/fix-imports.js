@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { exit } from 'process';
-
 const filePath = './index.js'
+//console.log(`⏳ Fixing imports in ${filePath}`)
 
 try {
   let content = readFileSync(filePath, 'utf8')
